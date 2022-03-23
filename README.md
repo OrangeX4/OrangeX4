@@ -38,6 +38,7 @@
 ## 我做过点什么
 
 - 基于 Termux 和 Web 技术的简陋手机编程 APP [Orangex](https://github.com/OrangeX4/Orangex-Mobile)
+- 一套基于 VSCode 的完善的「数字化」笔记编写方法 [Zhihu](https://zhuanlan.zhihu.com/p/366596949)
 - 用于在 VSCode 中写 Latex 数学公式的同时进行「科学计算」的插件 [Latex Sympy Calculator](https://github.com/OrangeX4/Latex-Sympy-Calculator)
 - 在 VSCode 更好地书写 Markdown 的插件工具包 [Markdown-Notes-Pack](https://marketplace.visualstudio.com/items?itemName=OrangeX4.markdown-notes-pack)
 - 在浏览器上浏览 GitHub 和 GitLab 上 Markdown 笔记的 Web 应用 [GitNotes](https://github.com/OrangeX4/GitNotes)
