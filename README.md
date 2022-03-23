@@ -17,18 +17,36 @@
 <img align="right" src='https://github-readme-stats.vercel.app/api/top-langs/?username=OrangeX4&layout=compact&hide=html,java' width="400px" />
 </a>
 
-你好呀~
+你好呀～
 
-我是 [OrangeX4](https://orangex4.cool/), 你也可以叫我一只方橙或方橙. 🍊
+我是 **OrangeX4**，你也可以叫我 **一只方橙** 或 **方橙**。🍊
 
-现在是 [南京大学](https://www.nju.edu.cn/) 人工智能学院 2020 级本科生, ~~正深陷于学习数学和编程的无边苦海中~~.
+现在是南京大学人工智能学院 2020 级本科生，正深陷于学习数学、编程和英语的无边苦海中。
 
-你问为什么我的名字那么奇怪?
+你问为什么我的名字那么奇怪？ ~~大概是我喜欢吃橘子和橙子，又谐音方程，还有和我的名字谐音的缘故吧~~。
 
-~~大概是我喜欢吃橘子和橙子, 又谐音方程, 还有和我的名字谐音的缘故吧~~
+喜欢一切新奇的东西，兴趣十分广泛。有什么好玩的事也欢迎来找我啦～ 😉
 
-[orangex4.cool](https://orangex4.cool) 是我的个人博客, 欢迎来逛一下啊!
+[orangex4.cool](https://orangex4.cool) 是我的个人博客, 里面是我的博文和一些自己搭建的小网站，欢迎来逛一下!
 
-喜欢一切新奇的东西, 兴趣十分广泛.
+## 我的社交帐号
 
-有什么好玩的事也欢迎来找我啦~
+- 平常经常刷知乎，也会发一些文章，一年平均下来每天能知乎刷两小时以上（逃 [知乎](https://www.zhihu.com/people/xia-chong-yu-bing-34-67)
+- 主要在 B 站看视频，关注了许多有趣的 UP 主～ [Bilibili](https://space.bilibili.com/15329464)
+- 开发的小项目都在 GitHub 上，点个 Follow 不迷路哦！👀 [GitHub](https://github.com/OrangeX4)
+
+## 我做过点什么
+
+- 基于 Termux 和 Web 技术的简陋手机编程 APP [Orangex](https://github.com/OrangeX4/Orangex-Mobile)
+- 用于在 VSCode 中写 Latex 数学公式的同时进行「科学计算」的插件 [Latex Sympy Calculator](https://github.com/OrangeX4/Latex-Sympy-Calculator)
+- 在 VSCode 更好地书写 Markdown 的插件工具包 [Markdown-Notes-Pack](https://marketplace.visualstudio.com/items?itemName=OrangeX4.markdown-notes-pack)
+- 在浏览器上浏览 GitHub 和 GitLab 上 Markdown 笔记的 Web 应用 [GitNotes](https://github.com/OrangeX4/GitNotes)
+- 一次编程大作业中写的「黑白棋」 [Reversi](http://1.15.246.22/)
+- Hexo 上的卡片式链接支持 [Hexo Link Card](https://github.com/OrangeX4/hexo-link-card)
+- 大学以来记录的所有笔记 [OrangeX4's Note](https://notes.orangex4.cool/?git=gitlab)
+
+## 我的兴趣所在
+
+- 喜欢 Web 技术，认为 Web 技术是「基于文本的最好的 UI 技术栈」和「命令行程序在 GUI 时代的延伸」。🌐
+- 狂热的 VSCode 支持者，认为 VSCode 是最适合自己的 IDE，认为「VSCode 是一种生活方式」。📝
+- 所以是一个「看得见的技术」的爱好者，比如「计算机图形学」和「人机交互」。🖥️
