@@ -43,6 +43,7 @@
 - 在 VSCode 更好地书写 Markdown 的插件工具包 [Markdown-Notes-Pack](https://marketplace.visualstudio.com/items?itemName=OrangeX4.markdown-notes-pack)
 - 在浏览器上浏览 GitHub 和 GitLab 上 Markdown 笔记的 Web 应用 [GitNotes](https://github.com/OrangeX4/GitNotes)
 - 一次编程大作业中写的「黑白棋」 [Reversi](http://1.15.246.22/)
+- 南京大学 Latex User Group 的 Blogroll 页面 [Blogroll](https://blogroll.njulug.org/)
 - Hexo 上的卡片式链接支持 [Hexo Link Card](https://github.com/OrangeX4/hexo-link-card)
 - 大学以来记录的所有笔记 [OrangeX4's Note](https://notes.orangex4.cool/?git=gitlab)
 
