@@ -47,6 +47,7 @@
 - Hexo 上的卡片式链接支持 [Hexo Link Card](https://github.com/OrangeX4/hexo-link-card)
 - Draw.io 数学函数作图插件 [drawio-function-plot-plugin](https://github.com/OrangeX4/drawio-function-plot-plugin)
 - 大学以来记录的所有笔记 [OrangeX4's Note](https://notes.orangex4.cool/?git=gitlab)
+- 博客的「计算机学生的第零课」系列文章 [Lesson Zero](https://orangex4.cool/post/lesson-zero-for-cs-students/)
 
 ## 我的兴趣所在
 
