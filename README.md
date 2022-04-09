@@ -45,7 +45,7 @@
 - 一次编程大作业中写的「黑白棋」 [Reversi](http://1.15.246.22/)
 - 南京大学 Latex User Group 的 Blogroll 页面 [Blogroll](https://blogroll.njulug.org/)
 - Hexo 上的卡片式链接支持 [Hexo Link Card](https://github.com/OrangeX4/hexo-link-card)
-- 给 Draw.io 加上函数作图功能的插件 [drawio-function-plot-plugin](https://github.com/OrangeX4/drawio-function-plot-plugin)
+- Draw.io 数学函数作图插件 [drawio-function-plot-plugin](https://github.com/OrangeX4/drawio-function-plot-plugin)
 - 大学以来记录的所有笔记 [OrangeX4's Note](https://notes.orangex4.cool/?git=gitlab)
 
 ## 我的兴趣所在
