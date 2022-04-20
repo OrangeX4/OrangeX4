@@ -38,9 +38,9 @@
 ## 我做过点什么
 
 - 基于 Termux 和 Web 技术的简陋手机编程 APP [Orangex](https://github.com/OrangeX4/Orangex-Mobile)
-- 一套基于 VSCode 的完善的「数字化」笔记编写方法 [Zhihu](https://zhuanlan.zhihu.com/p/366596949)
-- 用于在 VSCode 中写 Latex 数学公式的同时进行「科学计算」的插件 [Latex Sympy Calculator](https://github.com/OrangeX4/Latex-Sympy-Calculator)
-- 在 VSCode 更好地书写 Markdown 的插件工具包 [Markdown-Notes-Pack](https://marketplace.visualstudio.com/items?itemName=OrangeX4.markdown-notes-pack)
+- 一套基于 VS Code 的完善的「数字化」笔记编写方法 [Zhihu](https://zhuanlan.zhihu.com/p/366596949)
+- 用于在 VS Code 中写 Latex 数学公式的同时进行「科学计算」的插件 [Latex Sympy Calculator](https://github.com/OrangeX4/Latex-Sympy-Calculator)
+- 在 VS Code 更好地书写 Markdown 的插件工具包 [Markdown-Notes-Pack](https://marketplace.visualstudio.com/items?itemName=OrangeX4.markdown-notes-pack)
 - 在浏览器上浏览 GitHub 和 GitLab 上 Markdown 笔记的 Web 应用 [GitNotes](https://github.com/OrangeX4/GitNotes)
 - 一次编程大作业中写的「黑白棋」 [Reversi](http://1.15.246.22/)
 - 南京大学 Latex User Group 的 Blogroll 页面 [Blogroll](https://blogroll.njulug.org/)
@@ -52,5 +52,5 @@
 ## 我的兴趣所在
 
 - 喜欢 Web 技术，认为 Web 技术是「基于文本的最好的 UI 技术栈」和「命令行程序在 GUI 时代的延伸」。🌐
-- 狂热的 VSCode 支持者，认为 VSCode 是最适合自己的 IDE，认为「VSCode 是一种生活方式」。📝
+- 狂热的 VS Code 支持者，认为 VS Code 是最适合自己的 IDE，认为「VS Code 是一种生活方式」。📝
 - 所以是一个「看得见的技术」的爱好者，比如「计算机图形学」和「人机交互」。🖥️
