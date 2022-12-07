@@ -45,6 +45,7 @@
 - 在浏览器上浏览 GitHub 和 GitLab 上 Markdown 笔记的 Web 应用 [GitNotes](https://github.com/OrangeX4/GitNotes)
 - 一次编程大作业中写的「黑白棋」 [Reversi](https://github.com/OrangeX4/Reversi)
 - 基于隐马尔可夫模型的「智能拼音输入法」 [Pinyin](https://github.com/OrangeX4/simple-pinyin)
+- 简单的室内行人移动方位推算技术 (Pedestrian Dead Reckoning) [PDR](https://github.com/nju-aml2022/Pedestrian-Dead-Reckoning-PDR)
 - 南京大学 Latex User Group 的 Blogroll 页面 [Blogroll](https://blogroll.njulug.org/)
 - Hexo 上的卡片式链接支持 [Hexo Link Card](https://github.com/OrangeX4/hexo-link-card)
 - Draw.io 数学函数作图插件 [drawio-function-plot-plugin](https://github.com/OrangeX4/drawio-function-plot-plugin)
