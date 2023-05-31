@@ -53,6 +53,7 @@
 - 博客的「计算机学生的第零课」系列文章 [Lesson Zero](https://orangex4.cool/post/lesson-zero-for-cs-students/)
 - 使用 Typst 编写的中文简历, 语法简洁, 样式美观, 开箱即用, 可选是否显示照片 [Chinese-Resume-in-Typst
 ](https://github.com/OrangeX4/Chinese-Resume-in-Typst)
+- 用于在 VS Code 中写 Typst 数学公式的同时进行「科学计算」的插件 [Typst Sympy Calculator](https://github.com/OrangeX4/vscode-typst-sympy-calculator)
 
 ## 我的兴趣所在
 
