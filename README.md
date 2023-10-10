@@ -55,6 +55,7 @@
 ](https://github.com/OrangeX4/Chinese-Resume-in-Typst)
 - 用于在 VS Code 中写 Typst 数学公式的同时进行「科学计算」的插件 [Typst Sympy Calculator](https://github.com/OrangeX4/vscode-typst-sympy-calculator)
 - 非官方 Typst 中文文档网站 [typst-doc-cn](https://typst-doc-cn.github.io/docs/)
+- VS Code 中的 Typst 本地包同步插件 [Typst Sync](https://github.com/OrangeX4/vscode-typst-sync)
 
 ## 我的兴趣所在
 
