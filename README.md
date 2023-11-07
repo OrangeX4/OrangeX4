@@ -58,7 +58,7 @@
 - VS Code 中的 Typst 本地包同步插件 [Typst Sync](https://github.com/OrangeX4/vscode-typst-sync)
 - 在 VS Code 中智能地进行中英输入法的切换 [Smart IME](https://github.com/OrangeX4/vscode-smart-ime)
 - 南京大学学位论文模板 [nju-thesis-typst](https://github.com/nju-lug/nju-thesis-typst)
-- 用于更好地在 Typst 中编写 Slides 的相对定位工具包 [typst-pinup](https://github.com/OrangeX4/typst-pinup)
+- 用于更好地在 Typst 中编写 Slides 的相对定位工具包 [typst-pinit](https://github.com/OrangeX4/typst-pinit)
 
 ## 我的兴趣所在
 
