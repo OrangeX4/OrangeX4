@@ -59,6 +59,7 @@
 - 在 VS Code 中智能地进行中英输入法的切换 [Smart IME](https://github.com/OrangeX4/vscode-smart-ime)
 - 南京大学学位论文模板 [nju-thesis-typst](https://github.com/nju-lug/nju-thesis-typst)
 - 用于更好地在 Typst 中编写 Slides 的相对定位工具包 [typst-pinit](https://github.com/OrangeX4/typst-pinit)
+- 在 Typst 中书写类似 Markdown 的表格 [typst-tablem](https://github.com/OrangeX4/typst-tablem)
 
 ## 我的兴趣所在
 
