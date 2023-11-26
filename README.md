@@ -48,7 +48,6 @@
 - 简单的室内行人移动方位推算技术 (Pedestrian Dead Reckoning) [PDR](https://github.com/nju-aml2022/Pedestrian-Dead-Reckoning-PDR)
 - 南京大学 Latex User Group 的 Blogroll 页面 [Blogroll](https://blogroll.njulug.org/)
 - Hexo 上的卡片式链接支持 [Hexo Link Card](https://github.com/OrangeX4/hexo-link-card)
-- Draw.io 数学函数作图插件 [drawio-function-plot-plugin](https://github.com/OrangeX4/drawio-function-plot-plugin)
 - 大学以来记录的所有笔记 [OrangeX4's Note](https://notes.orangex4.cool/?git=gitlab)
 - 博客的「计算机学生的第零课」系列文章 [Lesson Zero](https://orangex4.cool/post/lesson-zero-for-cs-students/)
 - 使用 Typst 编写的中文简历, 语法简洁, 样式美观, 开箱即用, 可选是否显示照片 [Chinese-Resume-in-Typst
