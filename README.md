@@ -18,7 +18,7 @@
 
 Hi there.
 
-I'm **OrangeX4**, but you can also call me **一只方橙** or **方橙**. 🍊 [中文介绍](https://github.com/OrangeX4/OrangeX4/blob/main/README-CN.md)
+I'm **OrangeX4**, but you can also call me **方橙**. 🍊 [中文介绍](https://github.com/OrangeX4/OrangeX4/blob/main/README-CN.md)
 
 Currently, I'm a prospective graduate student at the School of Artificial Intelligence, Nanjing University, immersed in the boundless sea of ​​learning mathematics, programming, and English.
 
