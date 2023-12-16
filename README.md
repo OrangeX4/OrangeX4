@@ -13,7 +13,7 @@
 [![Zhihu](https://img.shields.io/badge/dynamic/json?label=%E7%9F%A5%E4%B9%8E%E5%85%B3%E6%B3%A8&labelColor=0084ff&color=0099ff&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dzhihu%26queryKey%3Dxia-chong-yu-bing-34-67&longCache=true&style=flat-square)](https://www.zhihu.com/people/xia-chong-yu-bing-34-67)
 
 <a href="#">
-<img align="right" src='https://github-readme-stats.vercel.app/api/top-langs/?username=OrangeX4&layout=compact&hide=html,java,terra,jupyter' width="400px" />
+<img align="right" src='https://github-readme-stats.vercel.app/api/top-langs/?username=OrangeX4&layout=compact&hide=html,java,terra,ipynb' width="400px" />
 </a>
 
 Hi there.
