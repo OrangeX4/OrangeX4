@@ -59,6 +59,7 @@
 - 南京大学学位论文模板 [nju-thesis-typst](https://github.com/nju-lug/nju-thesis-typst)
 - 用于更好地在 Typst 中编写 Slides 的相对定位工具包 [typst-pinit](https://github.com/OrangeX4/typst-pinit)
 - 在 Typst 中书写类似 Markdown 的表格 [typst-tablem](https://github.com/OrangeX4/typst-tablem)
+- 为 Typst 增加强大的 LaTeX 支持 (如数学公式), 基于 Rust 和 WASM: [MiTeX](https://github.com/OrangeX4/mitex)
 
 ## 我的兴趣所在
 
