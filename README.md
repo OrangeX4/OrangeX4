@@ -55,6 +55,7 @@ I love everything new and interesting, with a wide range of interests. Feel free
 - Nanjing University thesis template for Typst: [nju-thesis-typst](https://github.com/nju-lug/nju-thesis-typst)
 - Relative positioning toolkit for better writing slides in Typst: [typst-pinit](https://github.com/OrangeX4/typst-pinit)
 - Writing markdown-like tables in Typst: [typst-tablem](https://github.com/OrangeX4/typst-tablem)
+- LaTeX support for Typst, powered by Rust and WASM: [MiTeX](https://github.com/OrangeX4/mitex)
 
 ## My Interests
 
