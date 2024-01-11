@@ -56,6 +56,7 @@ I love everything new and interesting, with a wide range of interests. Feel free
 - Relative positioning toolkit for better writing slides in Typst: [typst-pinit](https://github.com/OrangeX4/typst-pinit)
 - Writing markdown-like tables in Typst: [typst-tablem](https://github.com/OrangeX4/typst-tablem)
 - LaTeX support for Typst, powered by Rust and WASM: [MiTeX](https://github.com/OrangeX4/mitex)
+- An object-oriented package for creating presentation slides in Typst: [Touying](https://github.com/touying-typ/touying)
 
 ## My Interests
 
