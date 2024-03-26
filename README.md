@@ -35,10 +35,7 @@ I love everything new and interesting, with a wide range of interests. Feel free
 
 ## What I've Done
 
-- A simple mobile programming app based on Termux and Web technologies: [Orangex](https://github.com/OrangeX4/Orangex-Mobile)
-- A set of improved "digital" note-writing methods based on VS Code: [Zhihu](https://zhuanlan.zhihu.com/p/366596949)
 - An extension for writing Latex math equations and performing "scientific calculations" in VS Code: [Latex Sympy Calculator](https://github.com/OrangeX4/Latex-Sympy-Calculator)
-- An extension toolkit for better Markdown writing in VS Code: [Markdown-Notes-Pack](https://marketplace.visualstudio.com/items?itemName=OrangeX4.markdown-notes-pack)
 - A web application for browsing markdown notes on GitHub and GitLab in the browser: [GitNotes](https://github.com/OrangeX4/GitNotes)
 - A "Reversi" game developed as a programming assignment: [Reversi](https://github.com/OrangeX4/Reversi)
 - An "intelligent pinyin input method" based on Hidden Markov Models: [Pinyin](https://github.com/OrangeX4/simple-pinyin)
