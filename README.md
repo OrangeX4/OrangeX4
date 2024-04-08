@@ -49,10 +49,10 @@ I love everything new and interesting, with a wide range of interests. Feel free
 - Unofficial Typst Chinese documentation website: [typst-doc-cn](https://typst-doc-cn.github.io/docs/)
 - Typst local package synchronization plugin in VS Code: [Typst Sync](https://github.com/OrangeX4/vscode-typst-sync)
 - Intelligent switching between Chinese and English input methods in VS Code: [Smart IME](https://github.com/OrangeX4/vscode-smart-ime)
-- Nanjing University thesis template for Typst: [nju-thesis-typst](https://github.com/nju-lug/nju-thesis-typst)
+- Nanjing University thesis template for Typst: [modern-nju-thesis](https://github.com/nju-lug/modern-nju-thesis)
 - Relative positioning toolkit for better writing slides in Typst: [typst-pinit](https://github.com/OrangeX4/typst-pinit)
 - Writing markdown-like tables in Typst: [typst-tablem](https://github.com/OrangeX4/typst-tablem)
-- LaTeX support for Typst, powered by Rust and WASM: [MiTeX](https://github.com/OrangeX4/mitex)
+- LaTeX support for Typst, powered by Rust and WASM: [MiTeX](https://github.com/mitex-rs/mitex)
 - An object-oriented package for creating presentation slides in Typst: [Touying](https://github.com/touying-typ/touying)
 
 ## My Interests
