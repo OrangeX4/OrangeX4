@@ -51,7 +51,8 @@ I love everything new and interesting, with a wide range of interests. Feel free
 - Intelligent switching between Chinese and English input methods in VS Code: [Smart IME](https://github.com/OrangeX4/vscode-smart-ime)
 - Nanjing University thesis template for Typst: [modern-nju-thesis](https://github.com/nju-lug/modern-nju-thesis)
 - Relative positioning toolkit for better writing slides in Typst: [typst-pinit](https://github.com/OrangeX4/typst-pinit)
-- Writing markdown-like tables in Typst: [typst-tablem](https://github.com/OrangeX4/typst-tablem)
+- Writing markdown-like tables in Typst easily: [typst-tablem](https://github.com/OrangeX4/typst-tablem)
+- Write markdown-like checklist in Typst easily.: [typst-cheq](https://github.com/OrangeX4/typst-cheq)
 - LaTeX support for Typst, powered by Rust and WASM: [MiTeX](https://github.com/mitex-rs/mitex)
 - An object-oriented package for creating presentation slides in Typst: [Touying](https://github.com/touying-typ/touying)
 
