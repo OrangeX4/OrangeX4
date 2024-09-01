@@ -24,7 +24,7 @@ Currently, I'm a prospective graduate student at the School of Artificial Intell
 
 I love everything new and interesting, with a wide range of interests. Feel free to reach out if you have anything fun to share! 😉
 
-[orangex4.cool](https://orangex4.cool) is my personal blog, where you can find my articles and some self-built small websites. Feel free to check it out! [Blog](https://orangex4.cool)
+[orangex4.cool](https://blog.orangex4.workers.dev/) is my personal blog, where you can find my articles and some self-built small websites. Feel free to check it out! [Blog](https://orangex4.cool)
 
 ## My Social Accounts
 
