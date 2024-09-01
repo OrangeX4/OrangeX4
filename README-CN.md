@@ -27,7 +27,7 @@
 
 喜欢一切新奇的东西，兴趣十分广泛。有什么好玩的事也欢迎来找我啦～ 😉
 
-[orangex4.cool](https://orangex4.cool) 是我的个人博客, 里面是我的博文和一些自己搭建的小网站，欢迎来逛一下! [博客](https://orangex4.cool)
+[orangex4.cool](https://blog.orangex4.workers.dev/) 是我的个人博客, 里面是我的博文和一些自己搭建的小网站，欢迎来逛一下! [博客](https://orangex4.cool)
 
 ## 我的社交帐号
 
