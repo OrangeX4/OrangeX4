@@ -2,7 +2,7 @@
 <img align="right" src='https://github-readme-stats.vercel.app/api?username=OrangeX4&show_icons=true' width="400px" />
 </a>
 
-## OrangeX4
+### OrangeX4
 
 
 > Tech-otaku save the world. 😝
