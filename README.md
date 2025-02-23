@@ -41,7 +41,6 @@ I love everything new and interesting, with a wide range of interests. Feel free
 - An "intelligent pinyin input method" based on Hidden Markov Models: [Pinyin](https://github.com/OrangeX4/simple-pinyin)
 - Simple indoor pedestrian dead reckoning technique: [PDR](https://github.com/nju-aml2022/Pedestrian-Dead-Reckoning-PDR)
 - Blogroll page for the Nanjing University Linux User Group: [Blogroll](https://blogroll.njulug.org/)
-- Card-style link support on Hexo: [Hexo Link Card](https://github.com/OrangeX4/hexo-link-card)
 - All the notes I've taken since entering university: [OrangeX4's Note](https://notes.orangex4.cool/?git=gitlab)
 - Articles in the "Lesson Zero for CS Students" series on the blog: [Lesson Zero](https://orangex4.cool/post/lesson-zero-for-cs-students/)
 - Chinese resume written in Typst, concise syntax, beautiful style, ready to use, optional photo display: [Chinese-Resume-in-Typst](https://github.com/OrangeX4/Chinese-Resume-in-Typst)
@@ -55,6 +54,8 @@ I love everything new and interesting, with a wide range of interests. Feel free
 - Write markdown-like checklist in Typst easily.: [typst-cheq](https://github.com/OrangeX4/typst-cheq)
 - LaTeX support for Typst, powered by Rust and WASM: [MiTeX](https://github.com/mitex-rs/mitex)
 - An object-oriented package for creating presentation slides in Typst: [Touying](https://github.com/touying-typ/touying)
+- Simple enough but expressive template for notes, reports, and documents for Typst: [typst-ori](https://github.com/OrangeX4/typst-ori)
+- Out-of-the-box, customizable and multilingual theorem environment package for Typst: [typst-theorion](https://github.com/OrangeX4/typst-theorion)
 
 ## My Interests
 
