@@ -54,8 +54,8 @@ I love everything new and interesting, with a wide range of interests. Feel free
 - Write markdown-like checklist in Typst easily.: [typst-cheq](https://github.com/OrangeX4/typst-cheq)
 - LaTeX support for Typst, powered by Rust and WASM: [MiTeX](https://github.com/mitex-rs/mitex)
 - An object-oriented package for creating presentation slides in Typst: [Touying](https://github.com/touying-typ/touying)
-- Simple enough but expressive template for notes, reports, and documents for Typst: [typst-ori](https://github.com/OrangeX4/typst-ori)
-- Out-of-the-box, customizable and multilingual theorem environment package for Typst: [typst-theorion](https://github.com/OrangeX4/typst-theorion)
+- Simple enough but expressive template for notes, reports, and documents for Typst: [Ori](https://github.com/OrangeX4/typst-ori)
+- Out-of-the-box, customizable and multilingual theorem environment package for Typst: [Theorion](https://github.com/OrangeX4/typst-theorion)
 
 ## My Interests
 
