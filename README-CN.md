@@ -46,7 +46,6 @@
 - 基于隐马尔可夫模型的「智能拼音输入法」 [Pinyin](https://github.com/OrangeX4/simple-pinyin)
 - 简单的室内行人移动方位推算技术 (Pedestrian Dead Reckoning) [PDR](https://github.com/nju-aml2022/Pedestrian-Dead-Reckoning-PDR)
 - 南京大学 Linux User Group 的 Blogroll 页面 [Blogroll](https://blogroll.njulug.org/)
-- Hexo 上的卡片式链接支持 [Hexo Link Card](https://github.com/OrangeX4/hexo-link-card)
 - 大学以来记录的所有笔记 [OrangeX4's Note](https://notes.orangex4.cool/?git=gitlab)
 - 博客的「计算机学生的第零课」系列文章 [Lesson Zero](https://orangex4.cool/post/lesson-zero-for-cs-students/)
 - 使用 Typst 编写的中文简历, 语法简洁, 样式美观, 开箱即用, 可选是否显示照片 [Chinese-Resume-in-Typst
@@ -60,7 +59,9 @@
 - 在 Typst 中书写类似 Markdown 的表格 [typst-tablem](https://github.com/OrangeX4/typst-tablem)
 - 在 Typst 中书写类似 Markdown 的 Checklist [typst-cheq](https://github.com/OrangeX4/typst-cheq)
 - 为 Typst 增加强大的 LaTeX 支持 (如数学公式), 基于 Rust 和 WASM: [MiTeX](https://github.com/mitex-rs/mitex)
-- 为 Typst 提供面向对象风格的强大 Slides 包: [Touying](https://github.com/touying-typ/touying)
+- 为 Typst 提供功能强大的 Slides 包: [Touying](https://github.com/touying-typ/touying)
+- 足够简单但富有表现力的 Typst 笔记、报告和文档模板: [typst-ori](https://github.com/OrangeX4/typst-ori)
+- 开箱即用、可定制和多语言支持的 Typst 定理环境包: [typst-theorion](https://github.com/OrangeX4/typst-theorion)
 
 ## 我的兴趣所在
 
